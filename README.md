@@ -25,8 +25,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/michael-valdiviezo-maza-143807298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lesly-samaritano" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/samaritano.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samaritano.dev" height="30" width="40" /></a>
-<a href="https://discord.gg/samil96#4038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samil96#4038" height="30" width="40" /></a> -->
+<a href="https://instagram.com/michaelvm.00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samaritano.dev" height="30" width="40" /></a>
 </p>
 
 <br><br>
