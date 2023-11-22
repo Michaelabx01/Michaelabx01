@@ -19,7 +19,7 @@
 - 👨‍💻 Frontend Developer
 - 🚀 Flutter Enthusiast
 - 🔄 Practicante de Power Bi
-- 💻 Experto en Soporte Técnico de TI
+- 💻 Experto en Soporte Técnico TI
 
   <h3 align="center">Connect with me:</h3>
 
